@@ -1,0 +1,8 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  vignette_BioMonTools: vignette_BioMonTools.html
+  vignette_MapTaxaObs: vignette_MapTaxaObs.html
+last_built: 2021-05-10T19:39Z
+
